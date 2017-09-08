@@ -24,7 +24,6 @@ hs_err_pid*
 .DS_Store
 .gitignore
 .idea/
-pom.xml
 target/
 traffic-lights.iml
 trafficLights.iml
