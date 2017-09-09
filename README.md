@@ -21,5 +21,5 @@ intersections.add(new Intersection());
 ```
 int updateStep = 1000;
 boolean isDebugMode = false;
-controller = new TrafficController(intersections, updateStep, isDebugMode);
+TrafficController controller = new TrafficController(intersections, updateStep, isDebugMode);
 ```
